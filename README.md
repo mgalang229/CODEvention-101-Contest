@@ -20,3 +20,5 @@ Link: https://www.hackerrank.com/contests/codevention-101/challenges/making-cand
 ### Award: 1st Runner-Up
 ### Date: March 17, 2021
 ### Prize: PHP 600.00
+## Award
+![](First Runner-Up-1.png)
