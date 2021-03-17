@@ -15,8 +15,8 @@ Link: https://www.hackerrank.com/contests/codevention-101/challenges/bomber-man/
 ## Problem 7 - Hard (Making Candies - Partially Solved: 10.05 Points out of 40 Points)
 Link: https://www.hackerrank.com/contests/codevention-101/challenges/making-candies/problem
 ## Final Result
-Total Points: 71.09
-Rank: 2nd Place
-Award: 1st Runner-Up
-Date: March 17, 2021
-Price: PHP 600.00
+# Total Points: 71.09
+# Rank: 2nd Place
+# Award: 1st Runner-Up
+# Date: March 17, 2021
+# Price: PHP 600.00
