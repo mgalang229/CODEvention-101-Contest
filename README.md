@@ -1,5 +1,14 @@
 # CODEvention-101-Contest
-Contest Link: https://www.hackerrank.com/contests/codevention-101/challenges
+## Certificate
+![](certificate.png)
+## Final Result
+### Total Points: 71.09
+### Rank: 2nd Place
+### Award: 1st Runner-Up
+### Date: March 17, 2021
+### Prize: PHP 600.00
+## Contest Link (Hackkerrank)
+Link: https://www.hackerrank.com/contests/codevention-101/challenges
 ## Problem 1 - Easy (Staircase - Fully Solved: 8 Points out of 8 Points)
 Link: https://www.hackerrank.com/contests/codevention-101/challenges/staircase/problem
 ## Problem 2 - Easy (Birthday Cake Candles - Fully Solved: 8 Points out of 8 Points)
@@ -14,11 +23,3 @@ Link: https://www.hackerrank.com/contests/codevention-101/challenges/the-time-in
 Link: https://www.hackerrank.com/contests/codevention-101/challenges/bomber-man/problem
 ## Problem 7 - Hard (Making Candies - Partially Solved: 10.05 Points out of 40 Points)
 Link: https://www.hackerrank.com/contests/codevention-101/challenges/making-candies/problem
-## Final Result
-### Total Points: 71.09
-### Rank: 2nd Place
-### Award: 1st Runner-Up
-### Date: March 17, 2021
-### Prize: PHP 600.00
-# Certificate
-![](certificate.png)
