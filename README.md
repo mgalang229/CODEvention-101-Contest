@@ -1,4 +1,5 @@
 # CODEvention-101-Contest
+Contest Link: https://www.hackerrank.com/contests/codevention-101/challenges
 ## Problem 1 - Easy (Staircase - Fully Solved: 8 Points)
 Link: https://www.hackerrank.com/contests/codevention-101/challenges/staircase/problem
 ## Problem 2 - Easy (Birthday Cake Candles - Fully Solved: 8 Points)
